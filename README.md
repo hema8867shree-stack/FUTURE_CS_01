@@ -12,4 +12,7 @@ Read-only vulnerability assessment
 - Browser DevTools
 
 ## Description
-This project identifies common web vulnerabilities and suggests fixes.
+This project identifies common web vulnerabilities and provides remediation steps.
+
+## Author
+Hemashree S
